@@ -59,5 +59,5 @@ Handle the following custom conversion specifier:
 14. The flood of print has turned reading into a process of gulping rather than savo
 ring                                                                                
 Handle the following custom conversion specified.                                                                   
-15.                                     
+                                     
 All the above options work well together. 
